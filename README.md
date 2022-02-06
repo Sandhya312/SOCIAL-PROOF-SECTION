@@ -16,7 +16,7 @@ Users should be able to:
 
 
 - Solution URL: [Solution](https://github.com/Sandhya312/Social-proof-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://sandhya312.github.io/Social-proof-section/)
 
 ## My process
 
